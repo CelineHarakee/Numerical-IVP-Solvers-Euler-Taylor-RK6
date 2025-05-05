@@ -1,4 +1,4 @@
-# Numerical-IVP-Solvers-Python
+# Solving Numerical IVP with 3 Methods: Euler, Taylor (2nd Order), and Runge-Kutta (6th Order) Using Python
 
 This project demonstrates and compares three numerical methods for solving an Initial Value Problem (IVP) of the form: </br>
 y' = 3e^{2x}y, y(0) = 1
